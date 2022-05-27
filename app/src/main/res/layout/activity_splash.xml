@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splash">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/ic_undraw_doctor_kw5l"
+        tools:ignore="ContentDescription,ImageContrastCheck,ImageContrastCheck" />
+
+    <TextView
+        android:id="@+id/asd2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/poppins"
+        android:gravity="center_horizontal"
+        android:text="At your Quick service."
+        android:textColor="@color/purple_200"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/sp_enquiry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/asd2"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/poppins"
+        android:gravity="center_horizontal"
+        android:text="For any Enquiry"
+        android:textColor="@color/purple_200"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/sp_mobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sp_enquiry"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/poppins"
+        android:gravity="center_horizontal"
+        android:text="@string/enquiry_mobile"
+        android:textColor="@color/purple_200"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

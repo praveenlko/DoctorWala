@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Doctor Wala</string>
+
+    <string name="categories">Categories</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="enquiry_mobile">9090979701</string>
+
+    <string name="assist_detail">We will provide nursing staff for your care. Homeopathic doctors cure illness by giving patients small, diluted doses of the very thing causing the illness. This encourages the body to fight off the illness and heal itself. There are many ways to engage with homeopathic practices.</string>
+
+    <string name="rozor_key_id">rzp_test_o8PvbyI0vmNKl8</string>
+    <string name="rozor_key_secret">JrKCzghn1Oo7aMwzeF7EnZ6t</string>
+    <string name="favorite_brands_and_hottest_trends">Favorite brands and hottest trends.</string>
+    <string name="todo">TODO</string>
+    <string name="address">Address</string>
+    <string name="pincode">Pincode</string>
+    <string name="land_mark">land mark</string>
+    <string name="verification_id">Verification ID</string>
+    <string name="upload_document">Upload Document</string>
+    <string name="get_your_services">Get Your Services</string>
+    <string name="jovial_hosipital">Jovial Hospital</string>
+    <string name="advance_payment_is_necessary">Advance Payment is necessary</string>
+    <string name="note">Note :</string>
+    <string name="please_select_service">Please select service</string>
+    <string name="emergency">Emergency</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="your_messages">your Messages</string>
+    <string name="upload_your_document">Upload your Document</string>
+    <string name="submit">Submit</string>
+    <string name="your_service_charges_is">Your Service Charges is :</string>
+    <string name="charges">Charges</string>
+    <string name="gst">GST</string>
+    <string name="convenience">convenience</string>
+    <string name="total">Total</string>
+    <string name="one_call_will_attend_only_one_patient">One call will attend only one patient</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="online">Online</string>
+    <string name="proceed">Proceed</string>
+    <string name="payment_with_rozorpay">Payment with RozorPay</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="make_request">Make Request</string>
+    <string name="order_cancel">Order Cancel</string>
+    <string name="total_amount">Total Amount :</string>
+    <string name="status">Status :</string>
+    <string name="order_id">Order id</string>
+    <string name="service">Service</string>
+    <string name="schedule">Schedule</string>
+    <string name="charge">Charge</string>
+    <string name="textview">TextView</string>
+    <string name="booking_history">Booking History</string>
+    <string name="next">Next</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to Continue</string>
+    <string name="password">Password</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="map_api">AIzaSyCXcBNCs0RTWGPAXebk9uw5mipsD1l30fE</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+
+    <string name="notification">Your service placed successfully</string>
+    <string name="label_select_img">Select Image</string>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

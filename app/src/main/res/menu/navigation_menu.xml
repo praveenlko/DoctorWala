@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single">
+    <item android:id="@+id/home"
+        android:title="HOME"></item>
+
+    <item android:id="@+id/profile"
+        android:title="PROFILE"></item>
+
+    <item android:id="@+id/service_booking"
+        android:title="SERVICE BOOKING"></item>
+
+    <item android:id="@+id/pharmacy_booking"
+        android:title="PHARMACY ORDER"></item>
+
+    <item android:id="@+id/assistant_nursing"
+        android:title="ASSISTANT NURSING"></item>
+
+    <item android:id="@+id/log_out"
+        android:title="LOGOUT"></item>
+
+</group>
+
+</menu>
